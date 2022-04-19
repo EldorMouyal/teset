@@ -2,7 +2,7 @@ package warmup;
 import java.util.Stack;
 
 public class Main {
-
+    // destory stack
     public static void main(String[] args) {
 	int[] arr = {17, 62, 19, 10, 1, 78, 20, 20,20,10};
     Stack<Integer> myStack = new Stack<Integer>();
